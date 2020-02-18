@@ -13,6 +13,10 @@
 ## 工具 ##
 1. [架構繪圖工具 [github] NN-architecture schematics](https://github.com/alexlenail/NN-SVG)
 2. [MLPerf網上論壇](https://groups.google.com/forum/#!forum/mlperf)
+3. [Automation Anywhere Download COMMUNITY EDITION](https://www.automationanywhere.com/products/community-edition)
+4. [Automation Anywhere Get free online RPA training and launch into the future of work](https://university.automationanywhere.com/)
+5. [Automation Anywhere Forum - Find solutions, share information, and follow topics.](https://apeople.automationanywhere.com/s/?language=en_US)
+6. [Automation Anywhere Documentation, 這裏有Automation Anywhere 的各類使用參考文件～](https://docs.automationanywhere.com/)
 
 ## 文章 ##
 1. [訓練網絡像是買彩票？神經網絡剪枝最新進展之彩票假設解讀](https://bangqu.com/w2X415.htm)
